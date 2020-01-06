@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Zachary Hughes
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am a computer science major from Grove City College, minoring in Data Science, Mathematics, and Game Design. Here is a small collection of the projects I've worked on in school as well as a growing list of personal projects I've worked on. Unfortunately, only my open-ended assignments can be placed here for academic integrity, but they are some of my more fun works.
   <br><br>
-  Second description 
+  Future assignments and projects will be updated on an as-created basis, but past projects may have been created locally or through a different management platform (such as Unity's proprietary service), which explains some of the shotgun uploads for my older stuff. I'll try to note which of these earlier uploads were group-based and which were individual. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/zachary-hughes-49055516b/">My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
