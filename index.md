@@ -11,6 +11,8 @@
 
 ### Games
 
+[My games](game_page.md)
+
 ---
 
 ### Personal Stuff
