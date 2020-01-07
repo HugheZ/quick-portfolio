@@ -26,7 +26,15 @@ It includes two different enemies, an asteroid that fractures into more when you
 
 ### 3. Communisuto Damacy
 
+Communisuto Damacy tells an alternate story of Grover Man from the Communist point of view. You play as a glorious ball of stuff that must roll around a small American office and pick up as much stuff as possible, just like the original Katamari Damacy. The ball grows in size and rolls differently if you pick up special "irregular" objects, unless you are so large that they wouldn't matter anyways. The game ends after a time limit, and your success is judged by the size of the ball you make.
+
+<img src="images/CDSplash.png"/>
+
 ### 4. Net Surfer
+
+My most recent game, Net Surfer, is based on the 80s view of a cyberpunk future. You play as AxelLee.exe, the first future ninja robo cyber cop. You have to race through the internet, shooting down malicious entities and surviving bloatware obstacles. This is an infinite runner with progressive speedup, and it is by far my most visually stunning game. It is a low-power single-scene game, and it takes advantage of a post-processing VHS effect and vignette for an old-school CRT TV style. Additionally, it uses Unity's inverse kinematic system and Blender's quick skeletal setup system to implement a fluid point animation, which draws the user towards their crosshair even if it is lost in the effects.
+
+<img src="images/NetSurferLogo.png"/>
 
 ### 5. Underlord
 
