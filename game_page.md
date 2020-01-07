@@ -12,11 +12,12 @@ Grover Man is a satirical take on our college's personality; most students are c
 
 ### 2. One Trillion Lions vs. The Sun 2
 
-This is my first solo 3D game, and it plays off the following thought experiment:
+This is my first solo 3D game, and it plays off the following thought experiment: In a battle of power, who would win? One trillion lions, or the sun?
 
-> In a battle of power, who would win? One trillion lions, or the sun?
 >   "It depends if we can collapse them to their Schwarzschild radius." - Me
+
 >   "Well, are they all working together, or are they independent?" - My programming 2 professor
+
 >   "I feel that if they can get to the sun then organization is the least of their concerns." - The student who inspired me to make this game
 
 It includes two different enemies, an asteroid that fractures into more when you shoot it and a flare-shooting star, as well as a progressive difficulty scale. All voxel models and textures were done in the span of a week to remove placeholder models, for better or worse.
