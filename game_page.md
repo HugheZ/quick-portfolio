@@ -8,6 +8,7 @@ Due to my disdain for using mismatching art assets, I did the sprite work for th
 
 Grover Man is a satirical take on our college's personality; most students are conservative-libertarian. As such, we decided to model the 'perfect Grover' as a freedom fighter, saving his fellow students from the forces of Communism under the reign of Mecha Karl Marx. This game features two levels, four unlockable achievements, easter eggs, simple state-based AI, and a three-stage boss battle. Sprite design and voice acting was all done in-house. This was a group project.
 
+[Grover Man](https://github.com/HugheZ/Grover-Man)
 <img src="images/GroverSplash.png?raw=true"/>
 
 ### 2. One Trillion Lions vs. The Sun 2
