@@ -11,8 +11,8 @@ Our resulting models were only slightly better than random guessing (50% accurac
 ## Markov Model Movie Scripts
 
 Although not cutting-edge, below are the results of running a hand-implemented Markov model on movie scripts:
-* [Bee Movie](beeMovie.md)
-* [Shrek](shrek.md)
+* [Bee Movie](markov/beeMovie.md)
+* [Shrek](markov/shrek.md)
 
 ## Markov Model with Mounted Topic Analysis
 
