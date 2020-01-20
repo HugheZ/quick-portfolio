@@ -8,6 +8,8 @@ This project used two black-box logistic regressions in MatLab, glmfit and lasso
 
 Our resulting models were only slightly better than random guessing (50% accuracy), but one model tended towards pessimism while the other tended towards optimism for teams. This result made sense, since player, skill, opposing composition, and latency were not factored into the model. However, that we were able to improve over guessing by simply observing which of the 117 heroes are on a 5-person team is noteworthy. Similarly, we found out more about the playerbase by analyzing the game statistics.
 
+[Slideshow can be found here](https://docs.google.com/presentation/d/1CNnkYb4wQc5Dp6Y48MPp7x1WoInAb9u2sAGKoHoKkxw/edit?usp=sharing)
+
 ## Markov Model Movie Scripts
 
 Although not cutting-edge, below are the results of running a hand-implemented Markov model on movie scripts:
