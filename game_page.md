@@ -4,9 +4,15 @@
 
 Due to my disdain for using mismatching art assets, I did the sprite work for these games. Our Katamari game, however, required a multitude of objects, which made independent development of 3D models impossible for a class project.
 
+> **NOTE**: These github repositories are cross-uploads from Unity's version control system, and as such pulls, pushes, and contribution histories are not preserved. Each game will have a link to other contributors' github profiles here and in its own README.md
+
 ### 1. [Grover Man](https://github.com/HugheZ/Grover-Man)
 
-Grover Man is a satirical take on our college's personality; most students are conservative-libertarian. As such, we decided to model the 'perfect Grover' as a freedom fighter, saving his fellow students from the forces of Communism under the reign of Mecha Karl Marx. This game features two levels, four unlockable achievements, easter eggs, simple state-based AI, and a three-stage boss battle. Sprite design and voice acting was all done in-house. This was a group project.
+#### Contributors:
+* [Ben Mumaw](https://github.com/Nimitz)
+* [Nathan Stoner](https://github.com/Naxhi)
+
+Grover Man is a satirical take on our college's personality; most students are conservative-libertarian. As such, we decided to model the 'perfect Grover' as a freedom fighter, saving his fellow students from the forces of Communism under the reign of Mecha Karl Marx. This game features two levels, four unlockable achievements, easter eggs, simple state-based AI, and a three-stage boss battle. Sprite design and voice acting were both done in-house.
 
 <img src="images/GroverSplash.png?raw=true"/>
 
@@ -26,11 +32,17 @@ It includes two different enemies, an asteroid that fractures into more when you
 
 ### 3. [Communisuto Damacy](https://github.com/HugheZ/Communisuto-Damacy)
 
+#### Contributors:
+* [Nathan Stoner](https://github.com/Naxhi)
+
 Communisuto Damacy tells an alternate story of Grover Man from the Communist point of view. You play as a glorious ball of stuff that must roll around a small American office and pick up as much stuff as possible, just like the original Katamari Damacy. The ball grows in size and rolls differently if you pick up special "irregular" objects, unless you are so large that they wouldn't matter anyways. The game ends after a time limit, and your success is judged by the size of the ball you make.
 
 <img src="images/CDSplash.png"/>
 
 ### 4. [Net Surfer](https://github.com/HugheZ/Net-Surfer)
+
+#### Contributors:
+* [Nathan Stoner](https://github.com/Naxhi)
 
 My most recent game, Net Surfer, is based on the 80s view of a cyberpunk future. You play as AxelLee.exe, the first future ninja robo cyber cop. You have to race through the internet, shooting down malicious entities and surviving bloatware obstacles. This is an infinite runner with progressive speedup, and it is by far my most visually stunning game. It is a low-power single-scene game, and it takes advantage of a post-processing VHS effect and vignette for an old-school CRT TV style. Additionally, it uses Unity's inverse kinematic system and Blender's quick skeletal setup system to implement a fluid point animation, which draws the user towards their crosshair even if it is lost in the effects.
 
