@@ -24,7 +24,7 @@ I'm new to both machine learning and artificial intelligence, but I've had the o
 
 ---
 
-### [My games](game_page.md)
+### [My Games](game_page.md)
 
 A collection of games I've worked on can be found here. All were developed in Unity, and the list contains a mix of platforming and homages.
 
