@@ -30,6 +30,12 @@ A collection of games I've worked on can be found here. All were developed in Un
 
 ---
 
+### [Placewise](https://github.com/peterlowrance/placewise)
+
+Placewise is a tool/asset location solution for machine shops. When a manufacturer's employees use expensive tools and parts, lost assets can lead to monetary drain. Placewise is an Angular webapp solution, which allows employees to search through a custom database of tools by category and location. This hierarchy-based structure guides employees from base locations to small cabinets, just like a map. This gives employees a way to find and return parts, decreasing the rate of asset loss.
+
+---
+
 ### Personal Stuff
 
 #### [Tabletop Helper](https://github.com/HugheZ/Tabletop_Helper)
