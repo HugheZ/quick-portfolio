@@ -48,9 +48,10 @@ My most recent game, Net Surfer, is based on the 80s view of a cyberpunk future.
 
 <img src="images/NetSurferLogo.png"/>
 
-### 5. Underlord
+### 5. D&D&D: Dungeons and Dwarves and Deception
 
-This game is an upcomming idea for our networked games course. The running theory is one of two games:
+This is a top-down, competetive, mini-dungeon game built for LAN and Internet multiplayer on the PS4. The game can be best described as a mashup of Ultimate Chicken Horse and Crawl. You will play as a dwarf who must get to the end of a dungeon by killing the competition. In each trap phase, you place a trap in the dungeon room. During the play phase, points are awarded for kills, assists, and success. If no dwarves die, no points are awarded. This game is currently in-progress and may evolve to a dungeon-crawler where a player places traps in a subset of the rooms, but the core gameplay will remain the same.
 
-1. A roguelite, cooperative for 3 with a single enemy-spawning and enemy-controlling adversary
-2. A dwarf-fortress like game with a single player working to store food for the winter and another controlling 3 gnomes trying to disrupt the dwarf boss' progress.
+After each sprint, an update on the game's progress will be posted here.
+
+> **NOTE**: A playthrough of the game on YouTube and images of the game will be included here, but due to Sony Interactive Entertainment LLC's Student Development Program, source code cannot be shared publicly. However, potential employers, internship coordinators, and grant issuers may receive a copy of the source code and/or executable after contacting me with a request.
