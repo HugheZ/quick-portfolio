@@ -18,6 +18,8 @@ Although not cutting-edge, below are the results of running a hand-implemented M
 
 ## Markov Model with Mounted Topic Analysis
 
-This semester, I will have the opportunity to take part in a research project in which I will mount topic analysis onto a higher-dimension Markov model with the hopes of improving coherence. The resulting model will be used to simulate character conversations on a given primer topic. Further application of character datatypes, grammar trees, and sentiment analysis may be out of scope but could be interesting.
+This semester, I will be researching Markov Models with a potential mounted topic analysis to improve the coherency of low-level Markov Models. In the face of developing long-term memory systems, like [GPT-2.0](https://github.com/openai/gpt-2), Microsoft's new [DeepSpeed](https://venturebeat.com/2020/02/10/microsoft-trains-worlds-largest-transformer-language-model/) library and [Transformer-based model](https://venturebeat.com/2020/02/10/microsoft-trains-worlds-largest-transformer-language-model/), and Google's latest DeepMind [PG19 model] (https://github.com/deepmind/pg19), Markov Models seem a bit out of place for enterprise-level text generation. 
 
-This section will be updated with a link or removal pending project approval.
+This research project will seek to balance Markov Models with topic analysis to improve coherency using Dracula's letters from Jonathan Harker and Mina Harker. The expected result will be a coherent letter to and from each actor with a lightweight model. The generated text will not be as coherent as the enterprise models above, nor will it have the same memory, but it could still be useful for systems without access to strong computing hardware. This page will be updated with code, results, and examples once our models are trained and sufficient letters are generated.
+
+Initially, the letters will be generated with 1st and 2nd level Markov Models. Then, we will compare them to models with mounted topic analysis.
