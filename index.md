@@ -34,7 +34,7 @@ A collection of games I've worked on can be found here. All were developed in Un
 
 Placewise is a tool/asset location solution for machine shops. When a manufacturer's employees use expensive tools and parts, lost assets can lead to monetary drain. Placewise is an Angular webapp solution, which allows employees to search through a custom database of tools by category and location. This hierarchy-based structure guides employees from base locations to small cabinets, just like a map. This gives employees a way to find and return parts, decreasing the rate of asset loss.
 
-Currently, there's a bit of a problem with my school laptop. Pushes made on my computer do not appear to be showing up on the repository. Instead, my commits show up as "Hughes" authored and committed in the commit logs. 
+> Commit logs show my previous commits as an unrecognized user. This was due to a misconfiguration of my local git. It is solved now.
 
 ---
 
