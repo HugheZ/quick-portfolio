@@ -54,4 +54,6 @@ This is a top-down, competetive, mini-dungeon game built for LAN and Internet mu
 
 After each sprint, an update on the game's progress will be posted here.
 
+[![Sprint 1 Build Video](https://img.youtube.com/vi/E_rjoe1SU2E/0.jpg)](https://www.youtube.com/watch?v=E_rjoe1SU2E)
+
 > **NOTE**: A playthrough of the game on YouTube and images of the game will be included here, but due to Sony Interactive Entertainment LLC's Student Development Program, source code cannot be shared publicly. However, potential employers, internship coordinators, and grant issuers may receive a copy of the source code and/or executable after contacting me with a request.
