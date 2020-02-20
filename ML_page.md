@@ -22,4 +22,4 @@ This semester, I will be researching Markov Models with a potential mounted topi
 
 This research project will seek to balance Markov Models with topic analysis to improve coherency using Dracula's letters from Jonathan Harker and Mina Harker. The expected result will be a coherent letter to and from each actor with a lightweight model. The generated text will not be as coherent as the enterprise models above, nor will it have the same memory, but it could still be useful for systems without access to strong computing hardware. This page will be updated with code, results, and examples once our models are trained and sufficient letters are generated.
 
-Initially, the letters will be generated with 1st and 2nd level Markov Models. Then, we will compare them to models with mounted topic analysis.
+We will generate letters first by a single-level Markov Model, then through second-level and bigrams, and finally by integrating topic analysis and comparing it to a Recurrent Neural Network. 
