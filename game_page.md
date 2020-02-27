@@ -50,7 +50,11 @@ My most recent game, Net Surfer, is based on the 80s view of a cyberpunk future.
 
 ### 5. D&D&D: Dungeons and Dwarves and Deception
 
+<img src="images/walk.gif"/>
+
 This is a top-down, competetive, mini-dungeon game built for LAN and Internet multiplayer on the PS4. The game can be best described as a mashup of Ultimate Chicken Horse and Crawl. You will play as a dwarf who must get to the end of a dungeon by killing the competition. In each trap phase, you place a trap in the dungeon room. During the play phase, points are awarded for kills, assists, and success. If no dwarves die, no points are awarded. This game is currently in-progress and may evolve to a dungeon-crawler where a player places traps in a subset of the rooms, but the core gameplay will remain the same.
+
+<img src="images/dwarf_atlas.png"/>
 
 After each sprint, an update on the game's progress will be posted here.
 
