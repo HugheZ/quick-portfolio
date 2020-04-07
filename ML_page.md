@@ -40,3 +40,7 @@ TPU accelerated RNN:
 > Jon: One of them aboot their return, or the window or some later I felt so many moment. He said, "Juint more than usual instructions were stream shakes, then a might not wait for myself. The world was a love back to take the lock, my friend. Nook!
 
 Even with this simple uncleaned output, the Markov Models are performing better than the neural net. Further introduction of knowledge bleeding from other texts and weighting responses could prove to be a better model for smaller inputs.
+
+
+## Expectus, a Joustus AI
+Under development, a team I am on is implementing Joustus, a card minigame from Yacht Club Game's Shovel Knight: King of Cards game. Since a deck and hand game structure removes the perfect information requirement for minimax, we will be using expectiminimax, a minimax implementation for nondeterministic games. We will be implementing this strategy for the basic single-arrow push cards and  3x3 board structure for simplicity. This will be a unity-developed game, supporting player-vs-AI, player-vs-player, and AI-vs-AI games, uploaded to github once complete.
