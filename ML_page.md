@@ -26,12 +26,16 @@ We will generate letters first by a single-level Markov Model, then through seco
 
 1st level:
 > Jon:  We traveled night , " Look ! Me and I had not been seen the bloated face with a monster . 
+
 Bigrams:
 > Jon: I who marked Galatz .\_The other dogs_, who_had served his coat leisurely and neck of_the strange land .\_He certainly did so having just such_a stench would_have to face I_had to rush 
+
 2nd Level and Bigrams: 
 > Jon: Here_I am noble .\_I am_a Boyar .\_The common people know me_, and_I could_see that_his forehead was covered_with great beads of perspiration .\_Mina opened her_eyes ,\_but she\_did
+
 2nd Level and Bigrams with Mounted LDA topic analysis and grouping:
 > Jon: As I leaned from_the window and begin to crawl down the_castle wall over_the dreadful abyss , face down with his cloak spreading out around him like great wings .
+
 TPU accelerated RNN:
 > Jon: One of them aboot their return, or the window or some later I felt so many moment. He said, "Juint more than usual instructions were stream shakes, then a might not wait for myself. The world was a love back to take the lock, my friend. Nook!
 
