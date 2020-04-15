@@ -49,15 +49,19 @@ My most recent game, Net Surfer, is based on the 80s view of a cyberpunk future.
 <img src="images/NetSurferLogo.png"/>
 
 ### 5. D&D&D: Dungeons and Dwarves and Deception
+* [Mark Brestensky](https://github.com/BrestenskyMW1)
+* [Paul Hodge](https://github.com/PurplWarrior22)
 
 <img src="images/walk.gif"/>
 
-This is a top-down, competetive, mini-dungeon game built for LAN and Internet multiplayer on the PS4. The game can be best described as a mashup of Ultimate Chicken Horse and Crawl. You will play as a dwarf who must get to the end of a dungeon by killing the competition. In each trap phase, you place a trap in the dungeon room. During the play phase, points are awarded for kills, assists, and success. If no dwarves die, no points are awarded. This game is currently in-progress and may evolve to a dungeon-crawler where a player places traps in a subset of the rooms, but the core gameplay will remain the same.
+This is a top-down, competetive, mini-dungeon game built for local, LAN, and Internet multiplayer on the PS4. The game can be best described as a mashup of Ultimate Chicken Horse and Crawl. You will play as a dwarf who must get to the end of a dungeon by killing the competition. In each trap phase, you place a trap in the dungeon room. During the play phase, points are awarded for kills, assists, and success. If no dwarves die, no points are awarded.
+
+Due to losing team members, we had to unfortunately cut back on scope. The dungeon-building mechanic has been scrapped, but we added in a new game ending and local multiplayer to compensate.
 
 <img src="images/dwarf_atlas.png"/>
 
 After each sprint, an update on the game's progress will be posted here.
 
-[![Sprint 1 Build Video](https://img.youtube.com/vi/E_rjoe1SU2E/0.jpg)](https://www.youtube.com/watch?v=E_rjoe1SU2E)
+[![Sprint 2 Build Video](https://img.youtube.com/vi/1cJj6Am87MQ/0.jpg)](https://www.youtube.com/watch?v=1cJj6Am87MQ)
 
-> **NOTE**: A playthrough of the game on YouTube and images of the game will be included here, but due to Sony Interactive Entertainment LLC's Student Development Program, source code cannot be shared publicly. However, potential employers, internship coordinators, and grant issuers may receive a copy of the source code and/or executable after contacting me with a request.
+> **NOTE**: A playthrough of the game on YouTube and images of the game will be included here, but due to Sony Interactive Entertainment LLC's Student Development Program, source code cannot be shared publicly. Potential employers, internship coordinators, and grant issuers may receive a copy of the source code and/or executable after contacting me with a request. However, due to the COVID-19 pandemic, we no longer have access to PS4 devkits. The game will be programmed as a PS4-first game, but we cannot guarantee that it will compile without access to these machines. As such, we will eventually be making the source code available, should we determine we are no longer bounded by the contract.
