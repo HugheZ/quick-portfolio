@@ -62,6 +62,6 @@ Due to losing team members, we had to unfortunately cut back on scope. The dunge
 
 After each sprint, an update on the game's progress will be posted here.
 
-[![Sprint 2 Build Video](https://img.youtube.com/vi/1cJj6Am87MQ/0.jpg)](https://www.youtube.com/watch?v=1cJj6Am87MQ)
+[![Sprint 2 Build Video](https://img.youtube.com/vi/3x1PLmCmFvk/0.jpg)](https://youtu.be/3x1PLmCmFvk)
 
 > **NOTE**: A playthrough of the game on YouTube and images of the game will be included here, but due to Sony Interactive Entertainment LLC's Student Development Program, source code cannot be shared publicly. Potential employers, internship coordinators, and grant issuers may receive a copy of the source code and/or executable after contacting me with a request. However, due to the COVID-19 pandemic, we no longer have access to PS4 devkits. The game will be programmed as a PS4-first game, but we cannot guarantee that it will compile without access to these machines. As such, we will eventually be making the source code available, should we determine we are no longer bounded by the contract.
