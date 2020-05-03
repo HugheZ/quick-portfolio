@@ -43,4 +43,9 @@ Even with this simple uncleaned output, the Markov Models are performing better 
 
 
 ## Expectus, a Joustus AI
-Under development, a team I am on is implementing Joustus, a card minigame from Yacht Club Game's Shovel Knight: King of Cards game. Since a deck and hand game structure removes the perfect information requirement for minimax, we will be using expectiminimax, a minimax implementation for nondeterministic games. We will be implementing this strategy for the basic single-arrow push cards and  3x3 board structure for simplicity. This will be a unity-developed game, supporting player-vs-AI, player-vs-player, and AI-vs-AI games, uploaded to github once complete.
+Expectus is an AI implemented to play Joustus, a card minigame from Yacht Club Game's Shovel Knight: King of Cards. Since a deck and hand game structure removes the perfect information requirement for minimax, we used expectiminimax, a minimax implementation for nondeterministic games. This AI currently forms a strategy for the basic single-arrow push cards and 3x3 board structure. The AI runs on top of a basic unity version of Joustus and supports player-vs-AI, player-vs-player, and AI-vs-AI games.
+
+Additionally, implementing alpha-beta pruning saw a drastic reduction in time despite only being able to calculate out to 5-ply games (including chance nodes as a ply). This culminated in a 30x faster response speed than without pruning. 
+
+Once the semester is over, this will be uploaded to GitHub for reference.
+uploaded to github once complete.
