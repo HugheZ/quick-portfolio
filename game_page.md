@@ -54,14 +54,16 @@ My most recent game, Net Surfer, is based on the 80s view of a cyberpunk future.
 
 <img src="images/walk.gif"/>
 
-This is a top-down, competetive, mini-dungeon game built for local, LAN, and Internet multiplayer on the PS4. The game can be best described as a mashup of Ultimate Chicken Horse and Crawl. You will play as a dwarf who must get to the end of a dungeon by killing the competition. In each trap phase, you place a trap in the dungeon room. During the play phase, points are awarded for kills, assists, and success. If no dwarves die, no points are awarded.
+This is a top-down, competetive, mini-dungeon game built for local, LAN, and Internet multiplayer on the PS4. You will play as a dwarf who must get to the end of a dungeon by killing the competition. 
 
 Due to losing team members, we had to unfortunately cut back on scope. The dungeon-building mechanic has been scrapped, but we added in a new game ending and local multiplayer to compensate.
+
+However, we were able to keep most of our features! Each game cycle ends with a king-of-the-hill 'Gold Room' or a boss. This way, there will always be hidden consequences for hurting your fellow dwarf. Will you hinder your progress at slaying King Slime, or will you leave the gold all to yourself? Additionally, we were able to implement a custom skin choice system so players can choose which dwarf they want to be, along with a new unlockable golden skin.
 
 <img src="images/dwarf_atlas.png"/>
 
 After each sprint, an update on the game's progress will be posted here.
 
-[![Sprint 2 Build Video](https://img.youtube.com/vi/3x1PLmCmFvk/0.jpg)](https://youtu.be/3x1PLmCmFvk)
+[![Sprint 4 Pre-Release Build Video](https://img.youtube.com/vi/j5RAXgSipUg/0.jpg)](https://youtu.be/j5RAXgSipUg)
 
 > **NOTE**: A playthrough of the game on YouTube and images of the game will be included here, but due to Sony Interactive Entertainment LLC's Student Development Program, source code cannot be shared publicly. Potential employers, internship coordinators, and grant issuers may receive a copy of the source code and/or executable after contacting me with a request. However, due to the COVID-19 pandemic, we no longer have access to PS4 devkits. The game will be programmed as a PS4-first game, but we cannot guarantee that it will compile without access to these machines. As such, we will eventually be making the source code available, should we determine we are no longer bounded by the contract.
