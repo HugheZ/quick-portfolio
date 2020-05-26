@@ -16,7 +16,7 @@ Although not cutting-edge, below are the results of running a hand-implemented M
 * [Bee Movie](markov/beeMovie.md)
 * [Shrek](markov/shrek.md)
 
-## Markov Model with Mounted Topic Analysis
+## [Markov Model with Mounted Topic Analysis](https://gist.github.com/homealone944/7c886a3a8d29ca42d4a98a70cabae917)
 
 This semester, I will be researching Markov Models with a potential mounted topic analysis to improve the coherency of low-level Markov Models. In the face of developing long-term memory systems, like [GPT-2.0](https://github.com/openai/gpt-2), Microsoft's new [DeepSpeed](https://github.com/microsoft/DeepSpeed) library and [Transformer-based model](https://venturebeat.com/2020/02/10/microsoft-trains-worlds-largest-transformer-language-model/), and Google's latest DeepMind [PG19 model](https://github.com/deepmind/pg19), Markov Models seem a bit out of place for enterprise-level text generation. 
 
@@ -42,10 +42,7 @@ TPU accelerated RNN:
 Even with this simple uncleaned output, the Markov Models are performing better than the neural net. Further introduction of knowledge bleeding from other texts and weighting responses could prove to be a better model for smaller inputs.
 
 
-## Expectus, a Joustus AI
+## [Expectus, a Joustus AI](https://github.com/HugheZ/Expectus)
 Expectus is an AI implemented to play Joustus, a card minigame from Yacht Club Game's Shovel Knight: King of Cards. Since a deck and hand game structure removes the perfect information requirement for minimax, we used expectiminimax, a minimax implementation for nondeterministic games. This AI currently forms a strategy for the basic single-arrow push cards and 3x3 board structure. The AI runs on top of a basic unity version of Joustus and supports player-vs-AI, player-vs-player, and AI-vs-AI games.
 
 Additionally, implementing alpha-beta pruning saw a drastic reduction in time despite only being able to calculate out to 5-ply games (including chance nodes as a ply). This culminated in a 30x faster response speed than without pruning. 
-
-Once the semester is over, this will be uploaded to GitHub for reference.
-uploaded to github once complete.
