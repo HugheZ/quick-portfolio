@@ -48,7 +48,7 @@ My most recent game, Net Surfer, is based on the 80s view of a cyberpunk future.
 
 <img src="images/NetSurferLogo.png"/>
 
-### 5. D&D&D: Dungeons and Dwarves and Deception
+### 5. [D&D&D: Dungeons and Dwarves and Deception](https://github.com/HugheZ/D-D-D)
 * [Mark Brestensky](https://github.com/BrestenskyMW1)
 * [Paul Hodge](https://github.com/PurplWarrior22)
 
@@ -64,6 +64,6 @@ However, we were able to keep most of our features! Each game cycle ends with a 
 
 After each sprint, an update on the game's progress will be posted here.
 
-[![Sprint 4 Pre-Release Build Video](https://img.youtube.com/vi/j5RAXgSipUg/0.jpg)](https://youtu.be/j5RAXgSipUg)
+[![Sprint 4 Pre-Release Build Video](https://img.youtube.com/vi/Fi3DnloKOOo/0.jpg)](https://youtu.be/Fi3DnloKOOo)
 
-> **NOTE**: A playthrough of the game on YouTube and images of the game will be included here, but due to Sony Interactive Entertainment LLC's Student Development Program, source code cannot be shared publicly. Potential employers, internship coordinators, and grant issuers may receive a copy of the source code and/or executable after contacting me with a request. However, due to the COVID-19 pandemic, we no longer have access to PS4 devkits. The game will be programmed as a PS4-first game, but we cannot guarantee that it will compile without access to these machines. As such, we will eventually be making the source code available, should we determine we are no longer bounded by the contract.
+> **NOTE**: As of May, 2020, the final version of D&D&D was completed without support from the PS4 devkit and PS4 SDK. Under its licensing restrictions, this means that D&D&D should be treated as any other IP by its creators. As such, the full source code is available and can be distributed on public repositories.
