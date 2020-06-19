@@ -44,6 +44,12 @@ Placewise is a tool/asset location solution for machine shops. When a manufactur
 
 This is a tabletop assistant designed for Dungeons and Dragons 5th Edition, built using the Python wrapper for QT, PyQt. It allows for character creation while streamlining the process by auto-calculating modifiers and providing roll buttons for skills and weapons. Additionally, the app provides a quick lookup solution by issuing HTTP requests to two D&D REST APIs, as well as a simple initiative tracker for large groups and encounters.
 
+#### Virtual Tabletop
+
+An in-progress application that virtualizes tabletop board games. With local storage and firebase support, it manages your boards, sizes them by user-reported dimensions, and projects them onto your screen. It is intended to be used with a Raspberry Pi and a secondary TV or large monitor embedded into a coffee table. The result is a table that can take on any board game without having to store boxes and boards while retaining the hands-on feel of moving pieces around. This is primarily useful for tabletop RPGs that rely on 1-inch square tiles, but it could also be useful for modular games like Heroscape, family games like Monopoly, and as a decorative way to spice up your coffee table.
+
+> Project will be linked upon version 1 completion, since the codebase as-is does not accomplish much aside from connecting the Pyrebase API to data classes and containing QT .ui files
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
