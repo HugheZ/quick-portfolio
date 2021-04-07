@@ -1,20 +1,8 @@
 ## Portfolio
 
----
+Below is a complete list of my larger projects, both academic and personal. Only my open-ended apps and research is here, however, so you won't find some more math-heavy applications. Things like my openmp/openmpi - accelerated jaccobi iteration solver, matlab-based decision tree model, and hanabi state-based AI either began with starter functions or are currently assigned as projects at my alma matter, and so they won't be displayed. Feel free to ask me more about them, however.
 
-### School Projects
-
-#### [Pong Pow](https://github.com/HugheZ/PongPow)
-
-This was a pong game based in 6502 assembly, an assembly language with only 2 registers, an accumulator, and 8 bit operations. The game makes use of memory-mapped video output to load sprites to the screen by indexing columns and rows on the video memory page. The game implements a power shot feature, game speedup, and pausing.
-
-<img src="images/pong_splash.png?raw=true"/>
-
-#### [Computti Tutti](https://github.com/Ivoah/ComputtiTutti)
-
-Computti Tutti is a simple Java computer-assisted instructor (CAI). The project was developed over the course of a semester with two main sprints, during the first of which I was scrum master. I was in charge of aggregating open-source textbooks and writing more beginner-friendly instructions, writing some boilerplate questions, improving UX through progress bar color changing, and implementing a simple Bayesian classifier through the use of difficulty priors. The app was created in C# using WinForms, the precursor to WPF.
-
-<img src="images/ComputtiTutti_splash.png?raw=true"/>
+> Stay tuned for a more personalized website portfolio for my projects, games, and novice voice work, posted once I get my head around 3D fractals. Unless I set my eyes on some work on Boids or a proper synthwave svg library.
 
 ---
 
@@ -47,6 +35,26 @@ This is a tabletop assistant designed for Dungeons and Dragons 5th Edition, buil
 #### [Virtual Tabletop](https://github.com/HugheZ/Virtual_Tabletop)
 
 An in-progress application that virtualizes tabletop board games. With local storage and firebase support, it manages your boards, sizes them by user-reported dimensions, and projects them onto your screen. It is intended to be used with a Raspberry Pi and a secondary TV or large monitor embedded into a coffee table. The result is a table that can take on any board game without having to store boxes and boards while retaining the hands-on feel of moving pieces around. This is primarily useful for tabletop RPGs that rely on 1-inch square tiles, but it could also be useful for modular games like Heroscape, family games like Monopoly, and as a decorative way to spice up your coffee table.
+
+#### [QT Fractals](https://github.com/HugheZ/QT_Fractals)
+
+In the works, this will be a 3D fractal viewer built in QT Quick, QT3D, and OpenGL. Time permitting, I'll also try to port this to HLSL for the Unity engine, though Unity may not handle it well.
+
+---
+
+### School Projects
+
+#### [Pong Pow](https://github.com/HugheZ/PongPow)
+
+This was a pong game based in 6502 assembly, an assembly language with only 2 registers, an accumulator, and 8 bit operations. The game makes use of memory-mapped video output to load sprites to the screen by indexing columns and rows on the video memory page. The game implements a power shot feature, game speedup, and pausing.
+
+<img src="images/pong_splash.png?raw=true"/>
+
+#### [Computti Tutti](https://github.com/Ivoah/ComputtiTutti)
+
+Computti Tutti is a simple Java computer-assisted instructor (CAI). The project was developed over the course of a semester with two main sprints, during the first of which I was scrum master. I was in charge of aggregating open-source textbooks and writing more beginner-friendly instructions, writing some boilerplate questions, improving UX through progress bar color changing, and implementing a simple Bayesian classifier through the use of difficulty priors. The app was created in C# using WinForms, the precursor to WPF.
+
+<img src="images/ComputtiTutti_splash.png?raw=true"/>
 
 
 
