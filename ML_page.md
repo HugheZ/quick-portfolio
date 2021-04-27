@@ -46,3 +46,9 @@ Even with this simple uncleaned output, the Markov Models are performing better 
 Expectus is an AI implemented to play Joustus, a card minigame from Yacht Club Game's Shovel Knight: King of Cards. Since a deck and hand game structure removes the perfect information requirement for minimax, we used expectiminimax, a minimax implementation for nondeterministic games. This AI currently forms a strategy for the basic single-arrow push cards and 3x3 board structure. The AI runs on top of a basic unity version of Joustus and supports player-vs-AI, player-vs-player, and AI-vs-AI games.
 
 Additionally, implementing alpha-beta pruning saw a drastic reduction in time despite only being able to calculate out to 5-ply games (including chance nodes as a ply). This culminated in a 30x faster response speed than without pruning. 
+
+
+## [Lights Out](https://github.com/BrestenskyMW1/AIProject1)
+Lights out is a common problem solvable by the A* searching algorithm. This is because the solution has no loops in the search tree and has an admissible and consistent heuristic.
+
+This version adapts the lights out game from the Mario 64 DS minigame collection, which includes corners in a button press. The only difference is that the solution state is blank for all layouts. It also allows the user to select their own template to solve.
