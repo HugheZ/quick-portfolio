@@ -40,6 +40,8 @@ An in-progress application that virtualizes tabletop board games. With local sto
 
 In the works, this will be a 3D fractal viewer built in QT Quick, QT3D, and OpenGL. Time permitting, I'll also try to port this to HLSL for the Unity engine, though Unity may not handle it well.
 
+3D fractals are a step more complex than traditional 2D fractals. However, 3D surfaces can be made into fractals by some clever mod arithmetic. Similarly, infinite tris and vertices can be rendered using a raytracing substitute known as raymarching. So long as a distance estimation is known, a 3D fractal with any mutation can be rendered entirely in real-time. Big thanks to the [Syntopia](http://blog.hvidtfeldts.net/index.php/2011/06/distance-estimated-3d-fractals-part-i/) blog and [Inigo Quilez](https://www.iquilezles.org/www/index.htm) for help with the maths behind raymarching and 3D fractals.
+
 ---
 
 ### School Projects
